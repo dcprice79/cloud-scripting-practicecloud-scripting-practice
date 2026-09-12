@@ -12,3 +12,4 @@ Bash skills for cloud engineering.
 | Day | Script | Description |
 |---|---|---|
 | 01 | day-01-hello.py | Hello world — first Python script |
+| 02 | day-02-list-ec2.py | List running EC2 instances using boto3 |
