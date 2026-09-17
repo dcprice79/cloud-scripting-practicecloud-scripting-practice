@@ -15,3 +15,4 @@ Bash skills for cloud engineering.
 | 02 | day-02-list-ec2.py | List running EC2 instances using boto3 |
 | 03 | day-03-s3-buckets.py | List S3 buckets and count |
 | 04 | day-04-disk-usage.sh | Bash disk usage report |
+| 05 | day-05-iam-users.py | List IAM users with username, user ID, and creation date using boto3 |
