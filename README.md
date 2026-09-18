@@ -16,3 +16,5 @@ Bash skills for cloud engineering.
 | 03 | day-03-s3-buckets.py | List S3 buckets and count |
 | 04 | day-04-disk-usage.sh | Bash disk usage report |
 | 05 | day-05-iam-users.py | List IAM users with username, user ID, and creation date using boto3 |
+| 06 | day-06-cloudwatch.py | List CloudWatch alarms showing alarm name, state, and description using boto3 |
+
